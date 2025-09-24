@@ -5,7 +5,7 @@ Damar Galih Fitrianto
 
 
 Praktikum 2  Mobile
-![Praktikum2 ](img\P2M2.jpeg)
+![Screenshot Praktikum1](img/P2M2.jpeg)
 
 ![Praktikum2 ](img\P2M1.jpeg)
 
