@@ -1,16 +1,55 @@
-# hello_world
+# Praktikum 5 Aplikasi Pertama dan Widget Dasar Flutter
 
-A new Flutter project.
+Damar Galih Fitrianto
+2341720200
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Praktikum 2  Mobile
+![Praktikum2 ](img\P2M2.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+![Praktikum2 ](img\P2M1.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Praktikum 3 
+![Praktikum3 ](img\P3S1.png)
+
+Menampilkan nama .
+
+Praktikum 4
+![Praktikum4 ](img\P4S1.png)
+menampilkan tulisan pada tengah web.
+
+![Praktikum4 ](img\P4S2.png)
+
+![Praktikum4 ](img\P4K2.png)
+Menampilkan logo polinema.
+
+Praktikum 5
+![Praktikum5 ](img\P5scaffoldWidget.png)
+Scaffold adalah widget utama dalam Flutter Material Design yang menyediakan struktur/layout dasar untuk sebuah halaman (screen).
+
+![Praktikum5 ](img\P5showAlert.png)
+showDialog adalah fungsi bawaan Flutter untuk menampilkan kotak dialog pop-up di layar.
+Biasanya dipakai untuk:
+
+Memberi informasi penting
+
+Meminta konfirmasi (OK/Cancel)
+
+Menampilkan error atau peringatan
+
+Di dalam showDialog, kita biasanya pakai AlertDialog (untuk gaya Material) atau CupertinoAlertDialog (untuk gaya iOS).
+
+![Praktikum5 ](img\P5inputSelection.png)
+
+Dalam Flutter, input selection merujuk pada pemilihan teks di dalam TextField atau TextFormField.
+Contohnya:
+
+Saat kita mengetik di TextField, lalu menyorot sebagian teks (highlight biru).
+
+Saat kursor berkedip di posisi tertentu dalam teks.
+
+Flutter mengatur ini dengan class TextSelection, dan properti terkait di TextEditingController.
+
+![Praktikum5 ](img\P5dateandTime.png)
+DateTime adalah fungsi untuk menyimpan tanggal & waktu.
